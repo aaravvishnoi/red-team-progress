@@ -18,7 +18,7 @@ PRACTITIONER
 SQL injection attack, querying the database type and version on MySQL and Microsoft
 
 Lab 5 Solved
-Lab 6 Solved
+Lab 6 SQL SQL injection attack, listing the database contents on Oracle
 Lab 7 SQL injection UNION attack, determining the number of columns returned by the query Solved
 Lab 8 SQL injection UNION attack, finding a column containing text
 Lab 9 SQL injection UNION attack, retrieving data from other tables
