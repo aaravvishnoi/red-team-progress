@@ -20,4 +20,5 @@ SQL injection attack, querying the database type and version on MySQL and Micros
 Lab 5 Solved
 Lab 6 Solved
 Lab 7 SQL injection UNION attack, determining the number of columns returned by the query Solved
-LAB 8 SQL injection UNION attack, finding a column containing text
+Lab 8 SQL injection UNION attack, finding a column containing text
+Lab 9 SQL injection UNION attack, retrieving data from other tables
