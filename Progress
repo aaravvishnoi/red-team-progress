@@ -10,6 +10,7 @@ Manipulated the SQL WHERE clause to reveal hidden product data.
 
 Payload:
 
+
 ' OR 1=1--
 
 2. SQL Injection – Login Bypass
